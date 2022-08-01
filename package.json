@@ -1,0 +1,22 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "http": "node ./src/http.js",
+    "debug": "node --debug ./src/debug.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xlintime/node-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xlintime/node-project/issues"
+  },
+  "homepage": "https://github.com/xlintime/node-project#readme"
+}
